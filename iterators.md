@@ -19,7 +19,7 @@ May be helpful to look in [Enumerable](http://ruby-doc.org/core-2.2.0/Enumerable
 	Passes each element of an array into a block. Returns the first element which evaluates to true (which is not false?).
 
 ####inject:
-	Passes each element of an enumerable through a block and apply 
+	Passes each element of an enumerable through a block and 'reduces' them all together to a single value.
 
 ####partition:
 	Returns an array of two new arrays. One with all elements which evaluate true when passed through a block, one which evaluate false.

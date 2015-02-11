@@ -145,13 +145,3 @@ end
   end
 
 end #end describe iterators
-
-
-
-
-
-
-
-
-
-
